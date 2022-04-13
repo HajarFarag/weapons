@@ -1,0 +1,10 @@
+[{"id":1,"name":"Uchigatana","category":"Katana","skill":"Unsheathe","damage":281},
+{"id":2,"name":"Rogiers's Rapier","category":"Thrusting Sword","skill":"Repeating Thrust","damage":227},
+{"id":3,"name":"Sacred Relic Sword","category":"Greatsword","skill":"Wave of Gold","damage":289},
+{"id":4,"name":"Sword of Night and Flame","category":"Straight Sword","skill":"Night and Flame Stance","damage":487},
+{"id":5,"name":"Stormhawk Axe","category":"Axe","skill":"Thunderstorm","damage":318},
+{"id":6,"name":"Blasphemous Blade","category":"Greatsword","skill":"Taker's Flame","damage":296},
+{"id":7,"name":"Wing of Astel","category":"Curved Sword","skill":"Nebula","damage":350},
+{"id":8,"name":"Rivers of Blood","category":"Katana","skill":"Corpse Piler","damage":372},
+{"id":9,"name":"Elenora's Poleblade","category":"TwinBlade","skill":"Bloodblade Dance","damage":352},
+{"id":10,"name":"Bolt of Gransax","category":"Spear","skill":"Ancient Lighting Spear","damage":394}]
